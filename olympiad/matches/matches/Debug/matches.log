@@ -1,0 +1,33 @@
+﻿Build started 15.03.2012 13:00:48.
+Project "D:\Вчусь\GL\GL_Base_Camp\task\olimpiad\matches\matches\matches.vcxproj" on node 2 (build target(s)).
+PrepareForBuild:
+  Creating directory "D:\Вчусь\GL\GL_Base_Camp\task\olimpiad\matches\Debug\".
+InitializeBuildStatus:
+  Creating "Debug\matches.unsuccessfulbuild" because "AlwaysCreate" was specified.
+ClCompile:
+  f:\VisualStudio\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yc"StdAfx.h" /Fp"Debug\matches.pch" /Fo"Debug\\" /Fd"Debug\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt stdafx.cpp
+  stdafx.cpp
+  f:\VisualStudio\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yu"StdAfx.h" /Fp"Debug\matches.pch" /Fo"Debug\\" /Fd"Debug\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt matches.cpp
+  matches.cpp
+ManifestResourceCompile:
+  C:\Program Files\Microsoft SDKs\Windows\v7.0A\bin\rc.exe /nologo /fo"Debug\matches.exe.embed.manifest.res" Debug\matches_manifest.rc 
+Link:
+  f:\VisualStudio\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"D:\Вчусь\GL\GL_Base_Camp\task\olimpiad\matches\Debug\matches.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /ManifestFile:"Debug\matches.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"D:\Вчусь\GL\GL_Base_Camp\task\olimpiad\matches\Debug\matches.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"D:\Вчусь\GL\GL_Base_Camp\task\olimpiad\matches\Debug\matches.lib" /MACHINE:X86 Debug\matches.exe.embed.manifest.res
+  Debug\matches.obj
+  Debug\stdafx.obj
+Manifest:
+  C:\Program Files\Microsoft SDKs\Windows\v7.0A\bin\mt.exe /nologo /verbose /out:"Debug\matches.exe.embed.manifest" /manifest Debug\matches.exe.intermediate.manifest
+  C:\Program Files\Microsoft SDKs\Windows\v7.0A\bin\rc.exe /nologo /fo"Debug\matches.exe.embed.manifest.res" Debug\matches_manifest.rc 
+LinkEmbedManifest:
+  f:\VisualStudio\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"D:\Вчусь\GL\GL_Base_Camp\task\olimpiad\matches\Debug\matches.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /ManifestFile:"Debug\matches.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"D:\Вчусь\GL\GL_Base_Camp\task\olimpiad\matches\Debug\matches.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"D:\Вчусь\GL\GL_Base_Camp\task\olimpiad\matches\Debug\matches.lib" /MACHINE:X86 Debug\matches.exe.embed.manifest.res
+  Debug\matches.obj
+  Debug\stdafx.obj
+  matches.vcxproj -> D:\Вчусь\GL\GL_Base_Camp\task\olimpiad\matches\Debug\matches.exe
+FinalizeBuildStatus:
+  Deleting file "Debug\matches.unsuccessfulbuild".
+  Touching "Debug\matches.lastbuildstate".
+Done Building Project "D:\Вчусь\GL\GL_Base_Camp\task\olimpiad\matches\matches\matches.vcxproj" (build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:07.32

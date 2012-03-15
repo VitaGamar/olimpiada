@@ -1,0 +1,21 @@
+﻿Build started 15.03.2012 13:17:43.
+Project "D:\Вчусь\GL\GL_Base_Camp\task\olimpiad\show\show\show.vcxproj" on node 2 (build target(s)).
+InitializeBuildStatus:
+  Creating "Debug\show.unsuccessfulbuild" because "AlwaysCreate" was specified.
+ClCompile:
+  All outputs are up-to-date.
+  All outputs are up-to-date.
+ManifestResourceCompile:
+  All outputs are up-to-date.
+Link:
+  All outputs are up-to-date.
+Manifest:
+  All outputs are up-to-date.
+FinalizeBuildStatus:
+  Deleting file "Debug\show.unsuccessfulbuild".
+  Touching "Debug\show.lastbuildstate".
+Done Building Project "D:\Вчусь\GL\GL_Base_Camp\task\olimpiad\show\show\show.vcxproj" (build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:01.73
